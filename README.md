@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Engineering student with a strong background in data<br>structure, web designs, and software developments. Passionate about<br>building scalable systems and solving problems through efficient code.<br>Seeking to secure a summer internship opportunity to apply my theoretical<br>knowledge, grow my practical experience, and overcome real-world<br>challenges. 
+Senior Software Engineering student with a strong background in data<br>structure, web designs, and software developments. Passionate about building scalable systems and solving problems through efficient code. Seeking to secure a summer internship opportunity to apply my theoretical knowledge, grow my practical experience, and overcome real-world<br>challenges. 
 
 
 ## 🌐 Socials:
