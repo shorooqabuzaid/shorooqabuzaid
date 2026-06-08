@@ -1,41 +1,19 @@
-Shorooq Abuzaid
-Software Engineering student who breaks things on purpose — and then fixes them.
-Final-year SWE student at KFUPM with a soft spot for security, testing, and systems that scale. I like finding the edge cases everyone else missed. Open to summer internships.
-
-What I do
-
-🛡️ Security & testing — fuzzing, vulnerability analysis, and secure remediation
-☁️ Cloud & backend — serverless apps, APIs, and database design
-📊 Applied ML — regression and classification on real datasets
-🧩 Clean code — OOP and SOLID, because future-me has to read it too
+# 💫 About Me:
+Senior Software Engineering student with a strong background in data<br>structure, web designs, and software developments. Passionate about<br>building scalable systems and solving problems through efficient code.<br>Seeking to secure a summer internship opportunity to apply my theoretical<br>knowledge, grow my practical experience, and overcome real-world<br>challenges. 
 
 
-Tech I reach for
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shorooq Abuzaid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shorooq.abuzaid@outlook.com) 
 
-Projects worth a look
-🔍 Fuzzing bzip2 with AFL++
-Generated 87M+ inputs to map compression/decompression paths, tracked coverage with gcov/lcov, and uncovered 2 heap-buffer-overflow vulnerabilities via ASAN — with proposed memory-safety fixes.
-☁️ Breaking (and securing) a serverless app — AWS DVSA Lab
-Exploited RCE, auth flaws, race conditions, and DoS across Lambda, API Gateway, and IAM, then shipped secure fixes following best practices.
-📊 Predicting employee productivity
-Built regression models on workplace data to forecast whether employees hit targeted productivity levels — and surfaced the factors that actually move the needle.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shorooqabuzaid&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shorooqabuzaid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shorooqabuzaid&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Beyond code
-Led a 12-person team at the KFUPM Computer Club to run events for 200+ attendees, introducing planning templates that made the whole thing run smoother.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shorooqabuzaid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Connect
-📧 Shorooq.Abuzaid@outlook.com
-💼 LinkedIn — <!-- add your URL -->
-🌐 Portfolio — <!-- add your URL -->
-
-<!-- Optional: GitHub stats. Renders automatically once your profile is public. -->
-Show Image
+---
+[![](https://komarev.com/ghpvc/?username=shorooqabuzaid&icon=0&color=0)](https://visitcount.itsvg.in)
