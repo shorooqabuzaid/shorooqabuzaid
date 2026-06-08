@@ -1,6 +1,6 @@
 Shorooq Abuzaid
 Software Engineering student who breaks things on purpose — and then fixes them.
-Final-year SWE student at KFUPM (GPA 3.49/4, Honor list) with a soft spot for security, testing, and systems that scale. I like finding the edge cases everyone else missed. Open to summer internships.
+Final-year SWE student at KFUPM with a soft spot for security, testing, and systems that scale. I like finding the edge cases everyone else missed. Open to summer internships.
 
 What I do
 
